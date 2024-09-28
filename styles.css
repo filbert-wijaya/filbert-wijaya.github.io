@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.padding-top-15 {
+    padding-top: 15%;
+}
+
+.padding-10 {
+    padding: 10%;
+}
+
+.white-to-lightgray {
+    background-image: linear-gradient(white, lightgray);
+}
+
+.lightgray-to-white {
+    background-image: linear-gradient(lightgray, white);
+}
+
+.light-gray {
+    background-color: lightgray;
+}
+
+a {
+    text-decoration: none;
+}
